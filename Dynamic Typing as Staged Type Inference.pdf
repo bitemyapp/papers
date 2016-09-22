@@ -1,0 +1,963 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+		<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+		<!--[if IEMobile 7 ]><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="no-js iem7" manifest="default.appcache?v=1"><![endif]-->
+		<!--[if lt IE 7 ]><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="no-js ie6" lang="en"><![endif]-->
+		<!--[if IE 7 ]><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="no-js ie7" lang="en"><![endif]-->
+		<!--[if IE 8 ]><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="no-js ie8" lang="en"><![endif]-->
+		<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="no-js" lang="en"><!--<![endif]-->
+		
+		<script>var _prum = [['id', '522e16e3abe53db908000000'],['mark', 'firstbyte', (new Date()).getTime()]];(function() { var s = document.getElementsByTagName('script')[0], p = document.createElement('script');p.async = 'async';p.src = '//rum-static.pingdom.net/prum.min.js';s.parentNode.insertBefore(p, s);})();</script>
+		<script>(function(){
+				  var dom,doc,where,iframe = document.createElement('iframe');
+				  iframe.src = "javascript:false";
+				  (iframe.frameElement || iframe).style.cssText = "width: 0; height: 0; border: 0";
+				  where = document.getElementsByTagName('script')[0];
+				  where.parentNode.insertBefore(iframe, where);
+
+				  try {
+					doc = iframe.contentWindow.document;
+				  } catch(e) {
+					dom = document.domain;
+					iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+					doc = iframe.contentWindow.document;
+				  }
+				  doc.open()._l = function() {
+					var js = this.createElement("script");
+					if(dom) this.domain = dom;
+					js.id = "boomr-if-as";
+					js.src = '//c.go-mpulse.net/boomerang/' +
+					'27RY7-GV7UN-QPY93-WFRDF-YXG9L';
+					BOOMR_lstart=new Date().getTime();
+					this.body.appendChild(js);
+				  };
+				  doc.write('<body onload="document._l();">');
+				  doc.close();
+				  })();
+		</script>
+		
+	<!-- Content Copyright Oregon Health and Science University -->
+<!-- Page generated 2013-11-29 00:54:25 by CommonSpot Build 6.2.1.16 (2012-04-03 20:00:58) -->
+<!-- JavaScript & DHTML Code Copyright 1998-2012 PaperThin, Inc.  All rights reserved --> <head> 
+						
+						<title>Center for Spoken Language Understanding | Center for Spoken Language Understanding | OHSU</title>
+					<meta name="Description" id="Description" content="Center for Spoken Language Understanding" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="Keywords" id="Keywords" content="autism, computational linguistics, computer science, cslu, electrical engineering, natural language processing, speech, spoken language understanding, computer science degree portland, cs degree, cse degree" />
+<meta name="Generator" id="Generator" content="CommonSpot Content Server Build 6.2.1.16" />
+<meta name="ohsu-home" content="1"> 
+<link rel="stylesheet" href="/xd/style/unified.css" type="text/css" />
+<style type="text/css">
+	.mw { color:#000000;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none; }
+	a.mw:link	{color:#000000;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none;}
+	a.mw:visited	{color:#000000;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none;}
+	a.mw:hover	{color:#0000FF;font-family:Verdana,Arial,Helvetica;font-weight:bold;font-size:xx-small;text-decoration:none;}
+</style> <script type="text/javascript">
+<!--
+	var gMenuControlID = 0;
+	var menus_included = 0;
+	var jsDlgLoader = '/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/loader.cfm';
+	var jsSiteID = 3;
+	var jsSubSiteID = 3253;
+	var js_gvPageID = 1977455;
+	var jsPageID = 1977455;
+	var jsPageSetID = 0;
+	var jsPageType = 0;
+	var jsControlsWithRenderHandlers = ",3,3,3,3,3,3,4,4,7,7,7,7,7,7,7,7,7,8,8,8,8,8,8,8,8,8,9,9,10,10,10,11,20,20,20,23,23,36,36,36,36,36,36,36,36,36,36,36,39,41,43,53,1368,1373,1396,1432,1432,1432,1463,1769,1785,1785,1785,1785,1785,1785,1785,1785,1785,1952,1952,1952,1952,1952,1952,1952,2159,2427,4067,5198,5228,31048,31188,37603,37603,37603,117885,117885,117885,117885,182086,306020,306020,306020,306020,306020,306020,306020,306020,306020,306020,306020,306020,306020,306020,306020,306020,306160,306160,306160,306160,306160,306160,306160,306160,306160,554092,876097,1096995,1096995,1096995,1096995,1329767,1336639,1363718,1955863,2295874,2331090,2341328,2341336,";
+	var jsDefaultRenderHandlerProps = ",3_2,3_1,4_2,4_1,11_2,11_1,20_2,20_1,36_2,36_1,39_2,39_1,53_2,53_1,1368_1,1463_1,1785_1,2427_1,4067_1,5198_1,31048_1,31188_1,37603_1,876097_1,1329767_1,1336639_1,1363718_1,";
+	var jsAuthorizedControls = ",1,2,3,4,6,7,8,9,10,11,16,18,20,21,22,23,25,26,27,28,29,30,31,34,36,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,1346,1368,1373,1394,1396,1432,1463,1769,1777,1785,1952,2159,2427,2676,2768,4067,5065,5198,5228,7300,7929,13243,13980,14560,14604,15216,17317,20591,21551,23172,25221,25388,28225,29266,29320,29323,29738,31048,31116,31188,33196,36287,37603,39858,40610,40641,40643,41399,41411,50996,58426,87122,87625,94735,96076,96107,117885,120581,120583,120689,122582,146304,148876,148880,176999,178139,178156,178266,178814,178821,178922,180639,182086,183719,233776,245420,250425,253510,266204,271897,272214,306020,306160,307651,474660,474804,475971,475973,475975,475977,483250,525411,527861,554092,637435,637543,755532,755535,755537,755620,756021,756023,756025,756045,757961,763463,787162,787464,787473,793153,820187,845179,848136,849875,854166,854168,854170,854174,854389,876097,876430,883202,904723,906396,906398,906403,906419,907899,908089,908772,912975,935861,943210,943215,943293,943436,964631,964638,968507,997735,1003021,1003027,1096995,1098034,1100428,1131590,1131594,1131602,1133446,1133449,1133513,1156448,1156747,1156839,1156901,1157030,1157504,1157680,1159629,1160767,1160946,1162636,1162696,1163394,1163603,1163643,1163645,1163647,1163662,1163664,1163838,1185243,1186434,1186436,1186613,1192367,1192410,1192434,1221456,1221466,1222798,1234724,1234801,1256267,1256290,1256346,1256414,1256423,1256425,1256438,1262538,1262541,1263074,1284524,1305664,1311236,1329767,1336639,1343476,1343605,1346803,1346851,1346854,1346859,1353142,1354252,1354254,1354257,1354260,1357298,1361124,1363718,1366589,1368136,1379039,1381137,1382005,1382066,1382336,1405109,1413393,1413831,1435883,1438044,1454386,1470075,1472304,1473074,1497357,1506464,1534788,1537517,1544020,1568115,1570088,1570099,1570123,1570433,1594552,1595451,1595468,1599948,1604144,1604350,1604502,1628373,1630547,1655722,1659443,1659445,1659499,1661250,1661253,1662249,1662252,1662326,1662328,1662988,1684624,1684813,1687299,1687480,1691387,1691409,1691499,1691812,1692404,1692611,1694377,1717082,1718414,1719070,1719084,1719279,1719314,1719751,1721614,1722468,1734659,1734904,1735039,1736539,1739538,1739830,1765162,1768464,1826635,1827051,1827056,1827886,1848828,1848838,1851680,1852566,1854722,1857186,1858913,1860935,1873289,1873864,1878316,1880615,1884642,1888692,1899349,1899443,1900056,1901222,1904051,1904704,1904706,1904723,1904725,1904736,1904738,1904905,1904939,1906328,1908787,1908833,1909394,1909396,1909398,1909400,1909402,1909404,1909406,1909408,1909410,1909412,1909414,1909418,1909420,1909422,1909424,1909427,1909429,1909435,1909437,1909439,1909441,1909443,1909445,1909882,1910337,1910987,1911378,1914622,1914863,1914944,1917910,1918136,1920152,1921388,1924631,1931488,1931491,1931494,1931816,1931834,1931937,1932364,1933925,1935497,1938129,1940462,1940475,1942695,1943862,1943864,1953490,1955863,1964820,1992050,1992052,1992054,2038842,2050833,2071470,2117867,2120081,2133102,2137806,2197900,2207019,2214260,2217364,2236397,2249206,2290222,2295874,2313237,2331090,2341328,2341336,";
+	var jsCustomRenderHandlerPairs = "";
+	var jsStandardRenderHandlers = "";
+	var jsSiteSecurityCreateControls = 0;
+	var jsShowRejectForApprover = 1;
+
+// -->
+</script><script type="text/javascript" src="/commonspot/javascript/browser-all.js"></script> 
+	<script src="http://www.ohsu.edu/searchresults/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="/xd/templates/js/jquery.treeview.js"></script>
+	<script type="text/javascript" src="/xd/templates/js/swfobject.js"></script>
+	<script type="text/javascript" src="/xd/templates/js/jquery.tablesorter.pack.js"></script>
+	<script type="text/javascript" src="/xd/templates/js/superfish.js"></script>
+	<script type="text/javascript" src="/xd/templates/js/analytics.js"></script>
+	<link rel="stylesheet" href="/ADF/thirdParty/jquery/cluetip/jquery.cluetip.css" type="text/css" />
+	<script src="/ADF/thirdParty/jquery/cluetip/jquery.cluetip.js"></script>
+	
+	<script src="http://www.ohsu.edu/searchresults/js/jquery-ui-1.9.1.custom.min.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" media="screen" href="http://www.ohsu.edu/searchresults/css/jquery-ui-1.9.1.custom.min.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.ohsu.edu/searchresults/css/autocomplete.css" />
+    
+	<script type="text/javascript">
+		// default jquery into no conflict mode
+		jQuery.noConflict();
+		// set search jquery into local variable
+		var jQuery4search = jQuery.noConflict();
+        var searchapps_host = "http://www.ohsu.edu";
+        // set up author/developer variables
+        var isDeveloper = false;
+        var isAuthor = false;
+        // default GA Account production
+		if( !isDeveloper && !isAuthor ){
+			var arGAccounts = ["UA-15717535-1"];
+		} else { // default GA Account development
+			var arGAccounts = ["UA-38345371-1"];
+		}
+        // run at initialization time
+		jQuery(function($){
+			// initialize plugins
+			$("#sitemap").treeview();
+			$('ul.sf-menu').superfish();
+			// glossary popup functionality
+			$.ajaxSetup({async:false});
+			$('.glossaryDefinition:not(span)').removeClass('glossaryDefinition').wrapInner('<span class="glossaryDefinition"></span>');
+		});
+	</script>
+	
+	<script src="http://www.ohsu.edu/searchresults/js/main.js" type="text/javascript"></script>
+	
+	
+	<meta name="description" content="Center for Spoken Language Understanding" />
+	<meta name="title" content="Center for Spoken Language Understanding" />
+	<meta property="og:title" content="Center for Spoken Language Understanding" />
+	
+	<meta property="og:url" content="http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/index.cfm/~mbs/pub/dynamic_typing/dyntyping_tr.ps" />
+	<meta property="og:site_name" content="Oregon Health & Science University">
+	
+	<meta name="msvalidate.01" content="12518BFD0DB6729C66845DA7F6282FC5" />
+	
+	<link rel="icon" href="/xd/templates/favicon.ico">
+	
+	
+	
+	
+	
+	<link rel="apple-touch-icon-precomposed" href="/xd/style/img/favicon/favicon-152.png">
+	
+	<meta name="msapplication-TileColor" content="#FFFFFF">
+	<meta name="msapplication-TileImage" content="/xd/style/img/favicon/favicon-144.png">
+	
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/xd/style/img/favicon/favicon-152.png">
+	
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/xd/style/img/favicon/favicon-144.png">
+	
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/xd/style/img/favicon/favicon-120.png">
+	
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/xd/style/img/favicon/favicon-114.png">
+	
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/xd/style/img/favicon/favicon-72.png">
+	
+	<link rel="apple-touch-icon-precomposed" href="/xd/style/img/favicon/favicon-57.png">
+
+	
+			<meta name="apple-mobile-web-app-title" content="Center for Spoken Language Understanding">
+		
+
+	<link rel="stylesheet" type="text/css" media="print" href="/xd/style/print.css" />
+
+	
+		<meta name="WT.seg1" content="external">
+		<meta name="google-site-verification" content="Owdr0syUVh93Rmsr5Tbonrf07-B-9x3mexvTgRMbkoM" />
+	<link rel="stylesheet" href="/commonspot/commonspot.css" type="text/css" id="cs_maincss" /> 
+					<meta name="wt.sp" content="biomedicalEngineering">
+				<script type='text/javascript' src='http://www.trumba.com/scripts/spuds.js'></script>
+	<script id='trumbaSubmitEventJS' type='text/javascript' src='http://www.trumba.com/ea/scripts/submitevent.js'></script></head><body lang="en" class="CS_Document"><a name="__topdoc__"></a><script src="/commonspot/pagemode/always-include-common.js" type="text/javascript"></script><script type="text/javascript">
+<!--
+		// always-include-ie.js  Copyright 1998-2005 PaperThin, Inc. All rights reserved.
+
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+
+var bCanRollover=0
+if (bName == "Netscape")
+{
+	if(bVer >= 3)
+		bCanRollover=1;
+}
+else if (bName == "Microsoft Internet Explorer")
+{
+	if(bVer >= 4)
+		bCanRollover=1;
+}
+
+function ImageSet(imgID,newTarget)
+{
+	if (bCanRollover)
+		document[imgID].src=newTarget;
+}
+function clearStatus()
+{
+	window.status = "";
+}
+function setStatbar(statbar)
+{
+	var strStatbar=unescape(statbar);
+	window.status=strStatbar;
+}
+function onLoadComplete()
+{
+	if( menus_included == 1 )
+		document.onmouseover = document_mouseover;	// defined in menu_ie.js
+}
+function HandleLink(parentID,link,displaylink) 
+{
+	// links are in one of the following formats:
+	// 		cpe_60_0,CP___PAGEID=100
+	// 		CPNEWWIN:WindowName^params@CP___
+	// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2,1
+	// displaylink is the server relative URL or fully qualified URL
+	windowname = "";
+	windowparams = "";
+
+	// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL; 
+	pos = link.indexOf("CPNEWWIN:");
+	if (pos != -1)
+	{
+		pos1 = link.indexOf ("^");
+		windowname = link.substring (pos+9, pos1);
+		pos2 = link.indexOf ("@");
+		windowparams = link.substring (pos1 + 1, pos2);
+		link = link.substring (pos2 + 1, link.length);
+	}
+	
+	if( displaylink && displaylink != "" )
+	{		
+		if (windowname == "")
+			window.location = displaylink;
+		else
+		{
+			windowparams = FormatWindowParams(windowparams);
+			window.open (displaylink, windowname, windowparams);
+		}
+	}
+	else
+	{
+		targetLink = link;
+
+		if (link.indexOf ("CP___") != -1)
+		{
+
+			httpPos = -1;
+			commaPos = link.indexOf(",");
+			if (commaPos != -1)
+			{
+				targetUrl = link.substr(commaPos + 1);
+				if (targetUrl.indexOf("://") != -1 || targetUrl.indexOf("/") == 0)
+				{
+						httpPos = commaPos + 1;
+				}		
+			}
+				
+			if (httpPos != -1)
+			{
+				targetLink = link.substr(httpPos);
+
+				commaPos = targetLink.indexOf(",");
+				if (commaPos != -1)
+					targetLink = targetLink.substr(0, commaPos);
+			}
+			else
+				targetLink = jsDlgLoader + "?csModule=utilities/handle-link&thelink=" + link;
+			
+			if (windowname == "")
+				window.location = targetLink;
+			else
+			{
+				windowparams = FormatWindowParams(windowparams);
+				window.open (targetLink, windowname, windowparams);
+			}
+		}
+		else
+		{
+			//commaPos = link.indexOf(",");
+			//if (commaPos != -1)
+			//	link = link.substr(0, commaPos);
+
+			if (windowname == "")
+				window.location = link;
+			else
+			{
+				windowparams = FormatWindowParams(windowparams);
+				window.open (link, windowname, windowparams);
+			}
+		}
+	}
+
+}
+function doWindowOpen(href,name,params)
+{
+	if (params != '')
+	window.open (href, name, params);
+	else
+		window.open (href, name);	
+}
+
+// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2,1
+function FormatWindowParams(windowparams)
+{
+	if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 || 
+	    windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
+	{
+		windowparams = substringReplace(windowparams,':left=',',left=');
+		windowparams = substringReplace(windowparams,'left=','left=');
+		windowparams = substringReplace(windowparams,':ww=',',width=');
+		windowparams = substringReplace(windowparams,'ww=','width=');		
+		windowparams = substringReplace(windowparams,':hh=',',height=');
+		windowparams = substringReplace(windowparams,'hh=','height=');
+		windowparams = substringReplace(windowparams,':loc=',',location=');
+		windowparams = substringReplace(windowparams,'loc=','location=');
+		windowparams = substringReplace(windowparams,':dir=',',directories=');
+		windowparams = substringReplace(windowparams,'dir=','directories=');
+		windowparams = substringReplace(windowparams,':tb=',',toolbar=');
+		windowparams = substringReplace(windowparams,'tb=','toolbar=');
+		windowparams = substringReplace(windowparams,':stat=',',status=');
+		windowparams = substringReplace(windowparams,':mb=',',menubar=');
+		windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
+		windowparams = substringReplace(windowparams,':rs=',',resizable=');
+	}
+	return windowparams;
+}
+
+// -->
+		</script>
+	
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			var cookieSize = readCookie('ohsutextsize');
+			//alert('cookie size is ' + cookieSize);
+			if (cookieSize > 1) {
+				if (cookieSize > 1.4) {
+					//alert('cookie size is max - ' + cookieSize);
+					jQuery('span#fontersize a.textmax').addClass('active');
+					jQuery('#banner-rotator').css({'margin-bottom':'235px','border-bottom':'0px'});
+					jQuery('.slides p').css({'background-color':'white','padding':'0px 10px'});
+					jQuery('.thumbnails').css('display','none');
+					}
+				else {
+					//alert('cookie size is medium - ' + cookieSize);
+					jQuery('span#fontersize a.textmed').addClass('active');
+					jQuery('#banner-rotator').css({'margin-bottom':'100px','border-bottom':'0px'});
+					jQuery('.slides p').css({'background-color':'white','padding':'0px 5px'});
+					jQuery('.thumbnails').css('display','none');
+				}
+			}
+			else {
+				//alert('cookie size is regular - ' + cookieSize);
+				jQuery('span#fontersize a.textreg').addClass('active');
+				jQuery('#banner-rotator').css({'margin-bottom':'0px','border-bottom':'4px solid #004990'});
+				jQuery('.slides p').css({'background':'transparent','padding':'0px'});
+				jQuery('.thumbnails').css('display','block');
+			}
+			
+        	jQuery('span#fontersize a').bind('click', function() {
+    		jQuery('span#fontersize a').removeClass('active');
+    		jQuery(this).addClass('active');
+    		return false;
+    		});
+    	});
+	</script>
+	
+	
+	<script type="text/javascript">
+		function goToPage(page) {
+			window.location = page;
+		}
+		
+		function readCookie(name) {
+			var nameEQ = name + '=';
+			var ca = document.cookie.split(';');
+			for(var i=0;i < ca.length;i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1,c.length);
+				if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+			}
+			return null;
+		}
+		
+		function fsize(size,line,unit,id,id2,label,trackIt){
+			var wturl = '/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/index.cfm/~mbs/pub/dynamic_typing/dyntyping_tr.ps';
+			var wttitle = 'Center for Spoken Language Understanding';
+			var section = document.getElementById(id);
+			var othersection = document.getElementById(id2);
+			makeCookies(size,line);
+			// alert(size+'=s and l='+line);
+			if(label == 'large'){
+				jQuery('#banner-rotator').css({'margin-bottom':'235px','border-bottom':'0px'});
+				jQuery('.slides p').css({'background-color':'white','padding':'0px 10px'});
+				jQuery('.thumbnails').css('display','none');
+			}
+			else if(label == 'medium'){
+				jQuery('#banner-rotator').css({'margin-bottom':'100px','border-bottom':'0px'});
+				jQuery('.slides p').css({'background-color':'white','padding':'0px 5px'});
+				jQuery('.thumbnails').css('display','none');
+			}
+			else {
+				jQuery('#banner-rotator').css({'margin-bottom':'0px','border-bottom':'4px solid #004990'});
+				jQuery('.slides p').css({'background-color':'transparent','padding':'0px'});
+				jQuery('.thumbnails').css('display','block');
+			}
+			if(section){
+				section.style.fontSize = size + unit;
+				section.style.lineHeight = line + unit;
+			}
+			if(othersection){
+				othersection.style.fontSize = size + unit;
+				othersection.style.lineHeight = line + unit;
+			}
+			if(trackIt) {
+				_tag.dcsMultiTrack('DCSext.textsize',label,'DCS.dcsuri',wturl,'WT.ti',wttitle);
+			}
+		}
+		
+		function makeCookies(size,line){
+			createCookie('ohsutextsize', size, 365);
+			createCookie('ohsulinesize', line, 365);
+		}
+		
+		function createCookie(name,value,days) {
+			if(days) {
+				var date = new Date();
+				date.setTime(date.getTime()+(days*24*60*60*1000));
+				var expires = '; expires='+date.toGMTString();
+			}
+			else var expires = '';
+			document.cookie = name+'='+value+expires+'; path=/';
+		}
+	</script>
+	
+	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=ohsu"></script>
+
+	<!-- AddThis style overrides -->
+	<style type="text/css">
+		#at20mc #at15s {background:url(/xd/style/img/at_border_background.gif) !important; padding: 3px !important;}
+  		#at16p {background:url(/xd/style/img/at_border_background.gif) !important; padding: 3px !important;}
+		#at_pspromo {display:none !important;}
+	</style>
+	
+	<div><img width="250" height="61" alt="OHSU" src="/xd/style/img/OHSU_4C_logo.jpg" id="logoprint" /></div>
+
+	<div class="accessibility">
+		<ul>
+			<li><a href="#content" accesskey="2">Skip to Content</a></li>
+			<li><a href="#nav_primary">Skip to Main Navigation</a></li>
+			<li><a href="#searchterm" accesskey="4">Search OHSU</a></li>
+			<li><a href="/xd/about/contact-us/index.cfm" accesskey="9">Contact OHSU</a></li>
+			<li><a href="/xd/about/visiting/directions/index.cfm" >Maps &amp; Directions</a></li>
+			<li><a href="/xd">OHSU Home</a></li>
+			<li><a href="/xd/about/accessibility.cfm" accesskey="0">Accessibility Statement and OHSU Access Keys</a></li>
+		</ul>
+	</div><!-- /accessibility -->
+
+	
+	<div id="pagelayout" class="dp_landing">
+		<div id="missionwrap" class="educationpage">
+			
+			<div id="header"><h2><a tabindex="1" href="/xd/">OHSU &mdash; Oregon Health &amp; Science University</a></h2>
+			
+				<p><em>Where Healing, Teaching and Discovery Come Together</em></p>
+		
+				<div class="nav_utility">
+					<ul class="nav">
+						<li><a class="ohsuhomelink" href="/xd/">OHSU Home</a></li>
+						<li><a href="http://www.ohsu.edu/hr/">Jobs</a></li>
+						<li><a href="/xd/about/visiting/directions/index.cfm">Directions</a></li>
+						<li><a href="/xd/about/contact-us/index.cfm">Contact</a></li>
+					</ul>
+					<form name="Endeca" action="http://www.ohsu.edu/searchresults/controller.jsp" method="get" class="sitesearch searchform">
+						<fieldset>
+							<legend class="accessibility">Search OHSU</legend>
+							<label for="searchterm" class="accessibility">Enter your search term:</label>
+							<input type="text" name="Ntt" id="searchterm" value="Search OHSU" size="20" onfocus="if (this.value =='Search OHSU'){ this.value='';}" />
+							<input type="hidden" name="Ntk" value="All" />
+							<button type="submit" value="Search">Search</button>
+						</fieldset>
+					</form>
+					<span id="fontersize" class="text_size">
+						<a href="#" onClick="javascript:goToPage('/xd/about/services/technology/webstrategies/knowledgebase/faq/browser-accessibility.cfm');" title="Web Browser Accessibility Information">Text Size</a>:&nbsp;
+						<a class="textreg" href="#" onClick="javascript:fsize(1,1.3,'em','pagebody','footer','regular',true);" title="Regular text size">A</a>
+						<a class="textmed" href="#" onClick="javascript:fsize(1.4,1.4,'em','pagebody','footer','medium',true);" title="Medium text size">A</a>
+						<a class="textmax" href="#" onClick="javascript:fsize(1.8,1.5,'em','pagebody','footer','large',true);" title="Largest text size">A</a>
+					</span>
+				</div><!-- /nav_utility -->
+
+				<br class="oh_dear_ie" /><div id="nav_unified">
+						<ul class="nav">
+							<li><a href="/xd/about/index.cfm" class="nav_about">About OHSU</a></li>
+							<li><a href="/xd/health/index.cfm" class="nav_healthcare">Healthcare</a></li>
+							<li><a href="/xd/education/index.cfm" class="nav_education">Education</a></li>
+							<li><a href="/xd/research/index.cfm" class="nav_research">Research</a></li>
+							<li><a href="/xd/outreach/index.cfm" class="nav_outreach">Outreach</a></li>
+						</ul>
+					</div><!-- /nav_unified -->
+					<div id="cs_control_1338" class="cs_control CS_Element_LinkBar">
+			
+			<ol id="breadcrumbs" class="nav">
+				
+				<li class="homecrumb"><a href="/xd/index.cfm">OHSU Home</a></li>
+				
+				
+						<li><a href="#">Center for Spoken Language Understanding</a></li>
+					
+			</ol>
+		</div>
+			</div><!-- /header -->
+
+			<!-- this is where the new banner goes -->
+			
+			<!-- this is where the new banner ends -->
+			
+			<div id="pagebody" class="sizabletext">
+			<div id="nav_plus"><div id="cs_control_1339" class=""><div  class="CS_Element_Schedule"  title="" id="CS_Element_navplus" >
+<div id="cs_control_1977421" class="cs_control CS_Element_PageIndex"> <h2><a href="/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/">Center for Spoken Language Understanding</a></h2><ul class="nav" id="nav_primary">
+<li>
+<a href="/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/about/index.cfm" title="About">About</a>
+</li>
+<li>
+<a href="/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/people/index.cfm" title="People">People</a>
+</li>
+<li>
+<a href="/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/education/index.cfm" title="Computer Science &amp; Engineering, Electrical Engineering">Computer Science &amp; Engineering, Electrical Engineering</a>
+</li>
+<li>
+<a href="/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/research/index.cfm" title="Research">Research</a>
+</li>
+<li>
+<a href="/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/product-licensing/index.cfm" title="Product Licensing">Product Licensing</a>
+</li>
+<li>
+<a href="/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/contact.cfm" title="Contact Us">Contact Us</a>
+</li>
+</ul>
+</div> <div id="cs_control_2265393" class="cs_control CS_Element_Textblock">
+	<p class="gotoprnt"><a href="/xd/research/centers-institutes/institute-on-development-and-disability/index.cfm">Go to Institute on Development &amp; Disability (IDD)</a></p>
+</div>
+</div></div><div id="cs_control_29096" class=""><div  class="CS_Element_Schedule"  title="" id="CS_Element_navoptionalsearch" >
+<div id="cs_control_1977425" class="cs_control CS_Element_CustomCF"><div id="CS_CCF_1977455_1977425">
+    <form name="Endeca" action="http://www.ohsu.edu/searchresults/controller.jsp" method="get" class="sitesearch searchform">
+    		<fieldset>
+			<legend class="accessibility">Search CSLU</legend>
+			<label class="accessibility" for="searchterm">Enter your search term:</label>
+			<input type="text" name="Ntt" value="Search CSLU" size="20" onfocus="if (this.value =='Search CSLU'){ this.value='';}"  />
+			<input type="hidden" name="Ntk" value="All" />
+			
+			<input type="hidden" name="Nr" value="SubSite:CSLU">
+			<button value="Search" type="submit">Search</button>
+    		</fieldset>
+    </form>
+</div></div> <div id="cs_control_1977426" class="cs_control CS_Element_CustomCF"><div id="CS_CCF_1977455_1977426"> </div></div>
+</div></div><h2>Quick Links</h2><div id="cs_control_1340" class=""><div  class="CS_Element_Schedule"  title="" id="CS_Element_navquicklinks" >
+<a name="schedule6309" id="schedule6309"></a><a name="CP_JUMP_6309" id="CP_JUMP_6309"></a><div id="cs_control_6309" class=""><div  class="CS_Element_Schedule"  title="" id="CS_Sched_1977455_6309" >
+<a name="educationQuickLink6312" id="educationQuickLink6312"></a><a name="CP_JUMP_6312" id="CP_JUMP_6312"></a><div id="cs_control_6312" class="cs_control CS_Element_Textblock"><div class="CS_Textblock_Text"><ul class="nav quicklinks">
+<li><a onmouseover="" onmouseout="" href="http://www.ohsu.edu/edcomm/academictech/">Academic Technology</a></li>
+
+<li><a style="" class="CP___PAGEID_3945" href="/xd/education/find-departments.cfm">Find Departments &amp; Divisions<br />
+</a></li>
+
+<li><a style="" class="CP___PAGEID_3451" href="/xd/education/find-degree-programs.cfm">Find Degree Programs</a></li>
+
+<li><a class="CP___PAGEID_1954700" href="/xd/education/office-of-export-controls/index.cfm">Office of Export Controls</a><br />
+</li>
+
+<li><a style="" class="CP___PAGEID_1505423" href="/xd/education/student-services/index.cfm">Academic &amp; Student Affairs</a></li>
+</ul></div></div>
+</div></div> 
+</div></div><div id="cs_control_2070417" class=""><div  class="CS_Element_Schedule"  title="" id="CS_Element_navanalytics" ></div></div><br />
+            			</div><!-- /nav plus -->          
+            	
+					<div id="content"><div id="leader"><div id="cs_control_1618" class="cs_control CS_Element_Image">
+        <style type="text/css">
+            .dp_landing #leader{ background:#dee7f0 url(/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/images/typing.jpg) right bottom no-repeat; }
+        </style>
+    </div><div id="cs_control_1619" class="cs_control CS_Element_Textblock"> 
+         <h1 class="long">Center for Spoken Language Understanding</h1>
+        
+	
+	<p><p>We perform basic research on algorithms for language processing, and apply these to neurological disorders for diagnostic, remedial, and assistive purposes. We offer graduate degrees in computer science and electrical engineering.<br />
+</p></p>
+</div></div><div id="primary"><div id="cs_control_1341" class=""><div  class="CS_Element_Schedule"  title="" id="CS_Element_primary" >
+<div id="cs_control_2034384" class="cs_control CS_Element_Textblock"><div class="dp_block text_with_header"><h2>Academic Quick Links</h2> <ul>
+<li><a title="ISIS" class="externallink" href="https://sisweb.ohsu.edu/SISPRD/twbkwbis.P_WWWLogin" target="ISIS">Register Now (via ISIS)</a></li>
+
+<li><a id="education/class.cfm|" href="/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/education/class.cfm">Class Schedule</a><br />
+</li>
+</ul>
+    </div>
+</div> <div id="cs_control_2034383" class="cs_control CS_Element_Textblock"><div class="dp_block text_with_header"><h2>Partners/Collaborators</h2> <ul>
+<li><a class="more" href="http://www.ohsu.edu/xd/research/centers-institutes/neurology/alzheimers/">OHSU Layton Aging &amp; Alzheimer's Disease Center</a></li>
+
+<li><a class="more" href="http://www.ohsu.edu/oidd/reknew/">Reclaiming Expressive Knowledge in Elders with Communication Disorders (REKNEW)</a></li>
+
+<li><a title="JHU" target="_blank" class="externallink" href="http://www.clsp.jhu.edu/">Center for Language and Speech Processing</a></li>
+</ul>
+    </div>
+</div>
+</div></div></div><!-- /primary --><div id="secondary"><div id="cs_control_1562" class=""><div  class="CS_Element_Schedule"  title="" id="CS_Element_secondary" >
+<div id="cs_control_2046730" class="cs_control CS_Element_PageIndex">
+
+
+
+	<div class="dp_block">
+		<h2>Recent News</h2>
+		
+		
+		<table class="twUDT" cellspacing="0" cellpadding="2" border="0">
+			<tbody>
+				
+					<tr class="twUDTOneEvent">
+						<td class="twUDTStartDate" style="color:#666666" valign="top">03/26/2013</td>
+            				<td class="twUDTDescription" valign="top"><a href="/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/about/news/icassp.cfm">Student Papers Accepted at ICASSP 2013</a></td>
+					</tr>
+				
+					<tr class="twUDTOneEvent">
+						<td class="twUDTStartDate" style="color:#666666" valign="top">01/18/2012</td>
+            				<td class="twUDTDescription" valign="top"><a href="/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/about/news/cslu-to-host-interspeech-2012.cfm">CSLU to Host InterSpeech 2012</a></td>
+					</tr>
+				
+				<tr class="twUDTFooter">
+					<td class="twUDTFooterCell" colspan="2"></td>
+				</tr>
+			</tbody>
+		</table>
+		<p>&nbsp;&nbsp;&nbsp;<a href="/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/about/news/index.cfm">See All &raquo;</a></p>
+	</div>
+</div> <div id="cs_control_2084508" class="cs_control CS_Element_CustomCF"><div id="CS_CCF_1977455_2084508">
+	<div class="dp_block">
+		
+				<h2>Upcoming Events</h2>
+			
+		
+		<script type="text/javascript">
+			$Trumba.addSpud
+			({
+				webName: "cslu",
+				spudType: "upcomingdatetable"
+				,
+					teaserBase: "http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/about/events/index.cfm"
+				
+				
+			});
+		</script>
+		
+		<noscript>
+			The OHSU calendar requires javascript to be turned on in order to view this content.
+			If you do not have have javascript enabled in your browser, you will not be able
+			to view OHSU events
+		</noscript>
+	</div>
+</div></div>
+</div></div></div></div></div>
+	<div id="footer" class="sizabletext">		
+		
+		
+		<!-- exclude .wrap .nav if no links for it (footer-short style) -->		
+         
+
+		<div class="wrap content">
+		
+			<div class="wrap-inner">
+			
+				<div class="footer-about">
+					
+					<a class="ohsu-logo" href="http://www.ohsu.edu">Oregon Health &amp; Science University</a>
+					
+					<p>
+						Oregon Health &amp; Science University is dedicated to improving the health and quality of life for all Oregonians
+						through excellence, innovation and leadership in health care, education and research.
+					</p>
+					
+					<p class="copyright">
+						&copy; 2001-2013 Oregon Health &amp; Science University<br/>
+						OHSU is an equal opportunity affirmative action institution.<br/>
+						<a href="http://www.ohsu.edu/xd/about/services/integrity/ips/npp.cfm">Notice of Privacy Practices</a><br />
+						<a href="http://www.ohsu.edu/xd/about/services/information-technology/visitors-guests/website-accessibility.cfm">Web Browser Accessibility</a>		
+					</p>
+					
+				</div><!-- /.footer-about -->
+		
+				<!--
+					column width determined by class:
+				
+					two-col
+					three-col
+					four-col
+				
+				-->	
+				<div class="footer-map three-col">
+				
+					<div class="column">
+						
+						<ul>
+							<li><a href="http://www.ohsu.edu/xd">OHSU Home</a></li>
+							<li><a href="http://www.ohsu.edu/xd/about/contact-us/index.cfm">Contact OHSU</a></li>
+						</ul>
+						
+                       	<h5>OHSU Resources</h5>
+
+						<ul>
+							<li><a href="http://www.ohsu.edu/xd/about/visiting/directions/index.cfm">Maps &amp; Directions</a></li>
+							<li><a href="http://www.ohsu.edu/hr/">Jobs</a></li>
+							<li><a href="http://www.ohsu.edu/xd/education/library/">Library</a></li>
+                      		<li><a href="http://www.ohsu.edu/xd/about/news_events/events/index.cfm">Calendar</a></li>
+							<li><a href="http://www.ohsu.edu/xd/about/foundation/">Giving to OHSU</a></li>
+
+						</ul>                        
+                                         
+                        <h5>About OHSU</h5>
+						
+						<ul>
+                            <li><a href="http://www.ohsu.edu/xd/about/accessibility.cfm">Accessibility</a></li>
+							<li><a href="http://www.ohsu.edu/xd/about/vision/center-for-diversity-inclusion/">Diversity</a></li>
+							<li><a href="http://www.ohsu.edu/xd/about/services/integrity/">Integrity</a></li>
+						</ul>
+
+					</div><!-- /.column -->
+					
+					<div class="column">
+												
+						<h5>Patient Resources</h5>
+						
+						<ul>
+							<li><a href="http://www.ohsu.edu/xd/health/for-patients-visitors/billing-insurance/index.cfm">Billing &amp; Insurance</a></li>
+							<li><a href="http://www.ohsu.edu/xd/health/services/find-doctor.cfm">Find a Doctor</a></li>
+                            <li><a href="http://www.ohsu.edu/xd/health/services/find-clinic.cfm">Find a Clinic</a></li>
+							<li><a href="http://www.ohsu.edu/xd/health/for-patients-visitors/index.cfm">For Patients &amp; Visitors</a></li>
+                            <li><a href="http://www.ohsu.edu/xd/health/clinical-trials/index.cfm">Clinical Trials</a></li>
+						</ul>
+                        
+  						<h5>Research</h5>
+						
+						<ul>
+							<li><a href="http://www.ohsu.edu/xd/research/">About</a></li>
+                            <li><a href="http://www.ohsu.edu/research/rda/">Administration</a></li>
+                            <li><a href="http://www.ohsu.edu/research/rda/researchresources/">Shared Resources</a></li>
+                            <li><a href="http://www.ohsu.edu/xd/research/techtransfer/">Technology Transfer</a></li>
+                            <li><a href="http://www.ohsu.edu/xd/research/expertise.cfm">Research Expertise</a></li>
+						</ul>
+
+					</div><!-- /.column -->
+					
+					<div class="column">
+                    
+                     	<h5>Education</h5>
+					
+						<ul>
+							<li><a href="http://www.ohsu.edu/som">School of Medicine</a></li>
+							<li><a href="http://www.ohsu.edu/son">School of Nursing</a></li>
+							<li><a href="http://www.ohsu.edu/sod">School of Dentistry</a></li>
+                            <li><a href="http://pharmacy.oregonstate.edu/ohsu">College of Pharmacy</a></li>
+                            <li><a href="http://www.ohsu.edu/xd/education/admissions/index.cfm">Admissions</a></li>
+                            <li><a href="http://www.ohsu.edu/xd/education/student-services/index.cfm">Academic and Student Affairs</a></li>
+						</ul>
+                  
+                     	<h5>For Employees</h5>
+					
+						<ul>
+							<li><a href="https://o2.ohsu.edu">O2</a></li>
+							<li><a href="http://www.ohsu.edu/mail">Email</a></li>
+							<li><a href="http://www.ohsu.edu/wts">Connecting Off-Campus</a></li>
+						</ul>
+                        
+					</div>
+					
+				</div><!-- /.footer-map -->
+			
+			</div><!-- /.wrap-inner -->
+			
+		</div><!-- /.wrap .content -->
+
+	</div><!-- /footer -->
+
+	</div><!-- /missionwrap -->
+	</div><!-- /wrapper -->
+
+	<script type="text/javascript">
+		// retrieve the google analytics scripts and default the variable for pushing google tracking
+		var _gaq = _gaq || [];
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+		jQuery(function(){
+			// track user to set the custom variables
+			trackUser();
+		});
+	</script>
+	
+	
+		
+		<!-- START OF SmartSource Data Collector TAG -->
+		<!-- Copyright (c) 1996-2009 WebTrends Inc.  All rights reserved. -->
+		<!-- Version: 8.6.2 -->
+		<!-- Tag Builder Version: 3.0  -->
+		<!-- Created: 7/30/2009 6:01:58 PM -->
+		<script type="text/javascript" src="http://www.ohsu.edu/_resources/js/wtTrackingCode.js" ></script>
+		<!-- ----------------------------------------------------------------------------------- -->
+		<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+		<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+		<!-- ----------------------------------------------------------------------------------- -->
+		<script type="text/javascript">
+			//<![CDATA[
+			var _tag=new WebTrends();
+			_tag.dcsGetId();
+			//]]>>
+		</script>
+		<script type="text/javascript">
+			//<![CDATA[
+			// Add custom parameters here.
+			//_tag.DCSext.param_name=param_value;
+			_tag.dcsCollect();
+			//]]>>
+		</script>
+		<noscript>
+			<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://sdc.ohsu.edu/dcsbe00vo00000c9bwf4cptir_7f9y/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2"/></div>
+		</noscript>
+		<!-- END OF SmartSource Data Collector TAG -->
+		
+	
+	<!-- WebTrends end -->
+
+	
+		<!-- ADDTHIS SCRIPT BEGIN -->
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=ohsu"></script>
+		<script type="text/javascript">
+			var addthis_config = {
+				username: 'OHSU',
+				ui_cobrand: 'OHSU.edu',
+				services_compact: 'email,favorites,facebook,twitter,digg,more',
+				// services_expanded: 'mailto,print,pdfonline,facebook,twitter,google,googlebuzz,myspace,digg,stumbleupon,live,aim,bitly,blogger,delicious,gmail,hotmail,linkedin,reddit,tumblr,wordpress,yammer',
+				data_track_clickback: 'true',
+				data_ga_property: arGAccounts[0],
+				data_ga_social: true,
+				ui_offset_top: 5,
+				ui_offset_left: 5,
+				ui_header_background: '#004284',
+				ui_header_color: '#ffffff'
+			}
+		</script>
+		<script type="text/javascript">
+			// Alert a message when the user shares somewhere
+			function shareEventHandler(evt) { 
+				var myurl = '/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/index.cfm/~mbs/pub/dynamic_typing/dyntyping_tr.ps';
+				var mytitle = 'Center for Spoken Language Understanding';
+				if (evt.type == 'addthis.menu.share') { 
+					// alert(evt.data.service); 
+					// evt.data is an object hash containing all event data
+					// alert(evt.data.service); 
+					// evt.data.service is specific to the "addthis.menu.share" event
+					// Add custom WT parameters here:
+					_tag.dcsMultiTrack('DCSext.share',evt.data.service,'DCS.dcsuri',myurl,'WT.ti',mytitle);
+				}
+			}
+	
+			// Listen for the share event
+			addthis.addEventListener('addthis.menu.share', shareEventHandler);
+		</script>
+		<script type="text/javascript">
+			var cookie = readCookie('ohsutextsize');
+			var otherCookie = readCookie('ohsulinesize');
+			textsize = cookie ? cookie : 1;
+			linesize = otherCookie ? otherCookie : 1.3;
+			fsize(textsize,linesize,'em','pagebody','footer','cookie',false);
+		</script>
+	
+	<!-- ADDTHIS SCRIPT END --><div style="display:block; clear:left; padding:0px; font-family:Verdana,Arial; font-size:10px; color:gray;"></div>
+		<script type="text/javascript">
+		<!--
+			var jsPageContributeMode = 'read';
+			var jsPageSessionContributeMode = 'read';
+			
+			var jsPageAuthorMode = 0;
+			var jsPageEditMode = 0;
+
+			
+			if(!commonspot)
+				var commonspot = {};
+			commonspot.csPage = {};
+			commonspot.csPage.url = '/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/index.cfm';
+			
+			commonspot.csPage.id = 1977455;
+			commonspot.csPage.title = 'Center for Spoken Language Understanding';
+
+			commonspot.csPage.pagetype = 0;
+			commonspot.csPage.publicationState = 'Published Page';	
+			commonspot.csPage.siteRoot = '/xd/';
+			commonspot.csPage.subsiteRoot = '/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/';			
+			commonspot.csPage.mode = jsPageSessionContributeMode;
+			commonspot.csPage.authorok = 0;
+			commonspot.csPage.approvalstatus = 0;
+			commonspot.csPage.showContainerUI = 0;
+			commonspot.csPage.requestedVersionTimestamp = '';
+			commonspot.csPage.userRights = {};
+			commonspot.csPage.userRights.isLoggedIn = 0;
+			commonspot.csPage.userRights.licensedContributor = 0;
+			commonspot.csPage.userRights.read = 1;
+			commonspot.csPage.userRights.author = 0;
+			commonspot.csPage.userRights.edit = 0;
+			commonspot.csPage.userRights.approve = 0;
+			commonspot.csPage.userRights.history = 0;
+			commonspot.csPage.userRights.design = 0;
+			commonspot.csPage.userRights.admin = 0;
+			commonspot.csPage.userRights.subsiteAdmin = 0;
+			commonspot.csPage.userRights.siteAdmin = 0;
+			commonspot.csPage.userRights.customerAdmin = 0;
+			commonspot.csPage.userRights.serverAdmin = 0;
+
+			commonspot.csPage.enabledMenuClasses = '';
+			
+			commonspot.csPage.visibleMenuClasses = '';
+
+			
+			commonspot.csPage.subsiteContext = {};
+			commonspot.csPage.subsiteContext.sitetype = 0;
+			commonspot.csPage.subsiteContext.siteid = 3;
+			commonspot.csPage.subsiteContext.subsiteid = 3253;
+			commonspot.csPage.subsiteContext.siteurl = '/xd/';
+			commonspot.csPage.subsiteContext.subsiteurl = '/xd/education/schools/school-of-medicine/departments/basic-science-departments/biomedical-engineering/center-for-spoken-language-understanding/';
+			commonspot.csPage.subsiteContext.sitename = 'xd';
+			commonspot.csPage.subsiteContext.subsitename = 'center-for-spoken-language-understanding';
+			commonspot.csPage.subsiteContext.menucontexttimestamp = '1385574544010';
+			commonspot.csPage.serveradminurl = "/commonspot/admin/";
+			if (parent.commonspot)
+				parent.commonspot.csPage = commonspot.csPage;
+			var doLviewRedirect;
+			if(parent &&
+						parent.commonspot &&
+						parent.commonspot.lview &&
+						!doLviewRedirect &&
+						parent.commonspot.lightbox &&
+						parent.commonspot.lightbox.stack.length == 0)
+			{
+			
+				commonspot.csPage.showPageSubmit = false;
+			
+				onPageArrival = function()
+				{
+					parent.commonspot.lview.currentPage.onPageArrival( commonspot.csPage );
+				};
+				onPageUnload = function()
+				{
+					parent.commonspot.lview.currentPage.onPageUnload();
+				};
+				parent.Spry.Utils.addEventListener(window, 'load', onPageArrival, false);
+				parent.Spry.Utils.addEventListener(window, 'unload', onPageUnload, false);
+			}
+		
+
+		// -->
+		</script> 
+<script type="text/javascript">
+<!--
+	if (typeof parent.commonspot == 'undefined' || typeof parent.commonspot.lview == 'undefined')
+		loadNonDashboardFiles();
+	else if (parent.commonspot && typeof newWindow == 'undefined')
+	{
+		var arrFiles = 
+				[
+					{fileName: '/commonspot/javascript/lightbox/overrides.js', fileType: 'script', fileID: 'cs_overrides'},
+					{fileName: '/commonspot/javascript/lightbox/window_ref.js', fileType: 'script', fileID: 'cs_windowref'}
+				];
+		
+		loadDashboardFiles(arrFiles);
+	}	
+//-->
+</script>
+
+</body></html>
